@@ -1,3 +1,3 @@
 # KwordXtractionDEMO
 
-![kwordxtractiondemo.png]()
+![](kwordxtractiondemo.png)
